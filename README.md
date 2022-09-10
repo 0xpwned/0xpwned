@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pwned</h1>
+<h1 align="center">Hi <img src="https://cdn.discordapp.com/emojis/1017047202297819216.gif?size=96&quality=lossless" width="25px">, I'm pwned</h1>
 <h3 align="center">A passionate frontend developer/pentester (check bio) from France.</h3>
 
 - ⚡ Fun fact **I'm really funny (:**
